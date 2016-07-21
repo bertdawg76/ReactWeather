@@ -15,7 +15,7 @@ var WeatherDisplay = ({temp, location}) => {
 
   return (
 
-    <h3>Here is the Weather: {temp} in {location}</h3>
+    <h3 className="text-center">Here is the Weather: {temp} in {location}</h3>
   );
 
 };
