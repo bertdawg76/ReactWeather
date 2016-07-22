@@ -25,7 +25,7 @@ var About =  (props) => {
 
   return (
     <div>
-      <h3 className="text-center">About This Site</h3>
+      <h1 className="text-center page-title">About This Site</h1>
       <p>This Site uses React to  makes an API call to the Open Weather Map API and displays the temperature.</p>
       <p>Below are links to the Open Weather Map site and to my github repo</p>
       <ul>
